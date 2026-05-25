@@ -1,0 +1,8 @@
+{
+    "name": "apphandler-service",
+    "version": "1.0.850",
+    "private": false,
+    "environment": "production",
+    "build_id": 713,
+    "allow_public_access": true
+}
